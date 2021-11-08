@@ -31,3 +31,4 @@ Things you may want to cover:
 4. wecolme_email va apeler 2 template en leur mettant a disposition une instance @user qui est l'utilisateur cree et une variable @url qui est juste une string. Cette methode enverra ensuite les 2 templates @user.email avec comme sujet "Bienvenue chew nous
 5.  les 2 templates (un html et un text) sont personalise avec les entree en Ruby (@user.name, @user.email et @url avant detre balance par mail)
 # test_action_mailer_send_grid
+# test_action_mailer_send_grid
