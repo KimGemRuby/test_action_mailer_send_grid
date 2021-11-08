@@ -32,3 +32,4 @@ Things you may want to cover:
 5.  les 2 templates (un html et un text) sont personalise avec les entree en Ruby (@user.name, @user.email et @url avant detre balance par mail)
 # test_action_mailer_send_grid
 # test_action_mailer_send_grid
+# test_action_mailer_send_grid
